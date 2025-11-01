@@ -29,7 +29,7 @@ This notebook covers:
   - Hourly revenue in each store  
   - Trend of total revenue over time  
 - Relationship between unit price, transaction quantity, and total revenue
-- 
+
 ## Files
 
 - `maven_coffee_project.ipynb` — notebook with analysis and plots  
